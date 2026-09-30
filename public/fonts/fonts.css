@@ -1,0 +1,8 @@
+/* Karkhoone AI brand fonts — self-hosted, SIL Open Font License.
+   Vazir: Persian body text · Tomorrow: Latin, brand name, numbers. */
+@font-face { font-family: 'Vazir'; src: url('Vazir.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Vazir'; src: url('Vazir-Medium.ttf') format('truetype'); font-weight: 500; font-display: swap; }
+@font-face { font-family: 'Vazir'; src: url('Vazir-Bold.ttf') format('truetype'); font-weight: 700; font-display: swap; }
+@font-face { font-family: 'Tomorrow'; src: url('Tomorrow-Regular.woff2') format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Tomorrow'; src: url('Tomorrow-Medium.woff2') format('woff2'); font-weight: 500; font-display: swap; }
+@font-face { font-family: 'Tomorrow'; src: url('Tomorrow-Bold.woff2') format('woff2'); font-weight: 700; font-display: swap; }

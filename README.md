@@ -9,6 +9,11 @@ A calm, RTL-first runbook for running working meetings. Your data never leaves y
 
 **Powered by KarkhooneAI** · Kourosh Sedigh ([@iamkourosh](https://github.com/iamkourosh)) · `Rewrite the Normal` · MIT
 
+[![Deploy to GitHub Pages](https://github.com/KarkhooneAI/meeting-runbook/actions/workflows/deploy.yml/badge.svg)](https://github.com/KarkhooneAI/meeting-runbook/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+### 🚀 [Live demo → karkhooneai.github.io/meeting-runbook](https://karkhooneai.github.io/meeting-runbook/)
+
 [فارسی](#فارسی) · [English](#english)
 
 </div>
@@ -22,6 +27,8 @@ A calm, RTL-first runbook for running working meetings. Your data never leaves y
 Meeting RunBook یک ابزار وب کوچک است برای **هدایت یک جلسه‌ی کاری و ثبت خروجی‌هایش در همان لحظه**: مسیر جلسه با تایمر، یادداشت و جمع‌بندی هر بخش، بک‌لاگ و مایل‌استون‌ها، OKR/KPI، معیارهای Ready و Done، برنامه‌ی بعد از جلسه، تصمیم‌ها و Parking Lot — و در پایان یک جمع‌بندی خودکار که مستقیم در گروه تیم کپی می‌شود.
 
 فلسفه‌اش ساده است: **جلسه برای پیش‌بردن کار است، نه تولید گزارش.** کمترین فرایندی که یک تیم کوچک واقعاً لازم دارد.
+
+> **بدون نصب امتحانش کنید:** [karkhooneai.github.io/meeting-runbook](https://karkhooneai.github.io/meeting-runbook/) — همه‌چیز در مرورگر خودتان می‌ماند.
 
 ### چه می‌کند
 
@@ -163,6 +170,8 @@ Issue و Pull Request خوش‌آمدند. لطفاً قبل از تغییرات
 Meeting RunBook is a small web tool for **running a working meeting and capturing its outputs as they happen**: a timed agenda with notes and wrap-ups per block, backlog & milestones, OKR/KPI, Ready/Done criteria, a post-meeting plan, decisions and a parking lot — ending with an auto-generated summary you paste straight into the team chat.
 
 The philosophy is simple: **a meeting is for moving work forward, not for producing reports.** The least process a small team really needs.
+
+> **Try it without installing:** [karkhooneai.github.io/meeting-runbook](https://karkhooneai.github.io/meeting-runbook/) — everything stays in your browser.
 
 ### Features
 
